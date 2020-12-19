@@ -1,6 +1,6 @@
 # NeuralSymbolic-Demo
 
-* run `NeuralSymbolic_Demo.ipynb` on google colab or localy with jupyter notebook
+* run `NeuralSymbolic.ipynb` on google colab or localy with jupyter notebook
 
 ## Michalski’s train problem
 
