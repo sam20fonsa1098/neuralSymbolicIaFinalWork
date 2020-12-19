@@ -9,4 +9,3 @@
 ![](./descProblema.png)
  
 * The learning task: determine what governs which kinds of trains are Eastbound and which kinds are Westbound
-* read mode at `trains.names`
